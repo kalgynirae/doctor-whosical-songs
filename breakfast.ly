@@ -5,7 +5,9 @@
   composer = \markup \override #'(baseline-skip . 2.5)
              \center-column {"Music by" "COLIN CHAN"}
   poet = \markup \override #'(baseline-skip . 2.5)
-         \center-column {"Words by" "CHRIS MUELLER" "and SOMEONE ELSE"}
+         \center-column {"Words by" "CHRIS MUELLER" "and KAREN PEARCE"}
+  copyright = "Copyright 2014 Colin Chan. All rights reserved."
+  tagline = ##f
 }
 
 words = \lyricmode {
@@ -30,8 +32,8 @@ words = \lyricmode {
   Break -- fast, the meal we love the most!
 
   A cou -- ple of thugs were rob -- bing a bank.
-  I could have shot out my webs and gave 'em a yank.
-  I should have hung those bad guys out to dry.
+  I could -- 've shot out my webs and gave 'em a yank.
+  I should -- 've hung those bad guys out to dry.
   But there's pan -- cakes down at I -- HOP— sau -- sage on the side
   There's eggs to cook and ta -- ters to fry!
 
@@ -41,6 +43,16 @@ words = \lyricmode {
   Break -- fast, the meal we love the most!
 
   % Dance / dialog
+  Waf -- fles and ba -- con and ta -- ter tots!
+  But -- tered bis -- cuits real -- ly hit the spot!
+  Ce -- re -- al, oat -- me -- al, chees -- y grits!
+  Life with -- out om -- elets would be the pits.
+  %And you can't forget those scattered hashbrowns!
+
+  Smothered!  Covered!  Chunked!  Diced!
+  Peppered! Capped! Topped! Country!
+
+  All the way!
 
   Why face the vil -- lains you need to de -- feat
   When you've got bran and eggs to eat?
@@ -49,11 +61,12 @@ words = \lyricmode {
 
   Break -- fast, the meal we love the most!
 
-  Break -- fast, the meal we love the most!
-  OR -- DER UP!
+  Or -- der up!
 }
 
 chordses = \chordmode {
+  \partial 4. {r4.}
+  R1*2 |
   % Getting in fights
   c2 g | d:m g | c a/cis | d4.:m g4 e4./gis |
   a2:m e:m | a1:m | d4:m/f e:dim7 d:m d:7/c | g/b d8/a g s2 |
@@ -82,7 +95,7 @@ chordses = \chordmode {
   a1:m | f4 c8/e d:m s2 | f8 d/f s4 c2/g | c4/g g8 c s2 |
 
   % Dance / dialog
-  R1*24
+  R1*30
 
   % chorus
   f1 | c | d | g4. g4:7 e4.:7 |
@@ -90,8 +103,12 @@ chordses = \chordmode {
 
   % Breakfast... order up
   f8 d/f s4 c2/g | c4/g g8 c s2 |
-  f8 d/f s4 c2/g | c4/g g8 c s2 |
 }
+
+bat = \markup \smallCaps "Batman"
+both = \markup \smallCaps "Both"
+spi = \markup \smallCaps "Spiderman"
+sup = \markup \smallCaps "Superman"
 
 melody = \relative c' {
   \clef treble
@@ -100,34 +117,37 @@ melody = \relative c' {
   \tempo "With a casual swing" 2=72
   \compressFullBarRests
   \override MultiMeasureRest #'expand-limit = #1
+
+  \partial 4. {r4.}
+  R1*2 |
   % Getting in fights
-  e8 dis e4 e e8 g | f4 e8 d~ d4 r8 d |
+  e8^\sup dis e4 e e8 g | f4 e8 d~ d4 r8 d |
   e8 dis e g~ g4 e8 g | f e~ e d r e~ e e |
   a4 a8 g a g~ g4 | e2 r8 f~ f e |
   d4 e8 e f f~ f fis | g g a b~ b4 r |
 
   % We try to live
-  e,4 e8 dis e4 e8 g | f e~ e d~ d e~ e dis |
+  e,4^\spi e8 dis e4 e8 g | f e~ e d~ d e~ e dis |
   e8 g e dis e a e f | g f e d r e e g |
-  a4 a a r | gis8 a b c~ c r g4 |
+  a4 a a r | gis8 a b c~ c r g4^\both |
   f8 g f e~ e4 c | d d8 c r2 |
   R1*2 |
 
   % Flying around
-  f8 g a bes~ bes4 g4 | f8 g a c~ c4 r8 c |
-  d4 c bes8 a g4 | f8 g a g~ g e~ e e |
-  a4 g8 e g a r e | f4 g8 a~ a \xNote {a~ a} fis |
+  f8^\sup g a bes~ bes4 g4 | f8 g a c~ c4 r8 c |
+  d4 c bes8 a g4 | f8 g a g~ g e~^\spi e e |
+  a4 g8 e g a r e | f4 g8 a~ a \xNote {a~^\sup a} fis |
   g8 fis g a g e \xNote g4 | f8 e d c~ c4 r |
 
   % chorus
-  f4 f8 g a f~ f a | g e f g r4 r8 g |
+  f4^\both f8 g a f~ f a | g e f g r4 r8 g |
   fis4 g a fis | g a8 g r gis~ gis gis |
   a8 a g a~ a4 e | f e8 d r2 |
   f8 fis r a g4 c, | e d8 c~ c4 r |
   R1*1 |
 
   % A couple of thugs
-  r2 r4 r8 d |
+  r2 r4 r8 d^\spi |
   e8 dis e g~ g4 e | f8 f e d r d e dis |
   e8 dis e a~ a4 e4 | f8 f e d r e e e |
   a4 a a b | c b8 a r e~ e e |
@@ -135,28 +155,46 @@ melody = \relative c' {
   f4 g f e | d8 c d c~ c4 r |
 
   % chorus
-  f4 f8 g a f~ f a | g e f g r4 r8 g |
+  f4^\both f8 g a f~ f a | g e f g r4 r8 g |
   fis4 g a fis | g a8 g r gis~ gis gis |
   a8 a g a~ a4 e | f e8 d r2 |
   f8 fis r a g4 c, | e d8 c~ c4 r |
 
+  R1*2 |
   % Dance / dialog
-  \mark "Dance break!"
-  R1*24
+  \bar "||"
+  \xNotesOn
+  \break
+  R1^\spi^"How come you never sing with us, Bats?" |
+  R1^\bat^"It's not my scene." | \break
+  R1^\sup^"Afraid you'll ruffle your cowl?" |
+  R1^\bat^"Justice does not tango." | \break
+  R1^\spi^"But it sure does wear tights!" |
+  R1*3 | \break
+  c'4 c8 c c4 c8 c | c4 c c r |
+  c4 c c8 c c c | c4 c c r |
+  c8 c c4 c8 c c4 | c c c r |
+  c8 c c4 c8 c c4 | c c c r | \break
+  s1*1_\markup "And you can't forget those scattered hashbrowns!" | s1 |
+  R1*2 | \break
+  c4 r c r | c r c r |
+  R1*2 | c4 r c r | c r c r |
+  c4 c c r |
+  R1 |
+  \xNotesOff
 
   % chorus
-  f4 f8 g a f~ f a | g e f g r4 r8 g |
+  f,4^\both f8 g a f~ f a | g e f g r4 r8 g |
   fis4 g a fis | g a8 g r gis~ gis gis |
   a8 a g a~ a4 e | f e8 d r2 |
   f8 fis r a g4 c, | e d8 c~ c4 r |
 
   % Breakfast... order up
   f8 fis r a g4 c, | e d8 c~ c4 r |
-  f8 fis r a g4 c, | e d8 c~ c4 r |
-  R1 | r4 \xNote {c'8 c c4} r | \bar "|."
+  R1*2 | r4 \xNote {c'8 c c4} r | \bar "|."
 }
 
-#(set-global-staff-size 18)
+#(set-global-staff-size 17.5)
 #(set-default-paper-size "letter")
 \score {
   <<
