@@ -97,7 +97,7 @@ melody = \relative c' {
   \clef treble
   \key c \major
   \time 2/2
-  \tempo "With a casual swing" 2=68
+  \tempo "With a casual swing" 2=72
   \compressFullBarRests
   \override MultiMeasureRest #'expand-limit = #1
   % Getting in fights
