@@ -1,0 +1,5051 @@
+<?xml version="1.0"?>
+<score xmlns="http://denemo.org/xmlns/Denemo" version="6">
+  <lilycontrol>
+    <papersize>a4</papersize>
+    <fontsize>18</fontsize>
+    <orientation>1</orientation>
+    <score-directives>
+      <directive>
+        <tag>ScoreIndent</tag>
+        <prefix>\layout {indent = 7.2}
+</prefix>
+        <display>indent=7.2</display>
+        <override>4</override>
+      </directive>
+    </score-directives>
+  </lilycontrol>
+  <movement-number>1</movement-number>
+  <movement>
+    <edit-info>
+      <staffno>2</staffno>
+      <measureno>54</measureno>
+      <cursorposition>0</cursorposition>
+      <tonalcenter>0</tonalcenter>
+      <zoom>80</zoom>
+      <system-height>100</system-height>
+      <page-zoom>50</page-zoom>
+      <page-system-height>25</page-system-height>
+      <page-width>1916</page-width>
+      <page-height>1044</page-height>
+      <measure-width>480</measure-width>
+    </edit-info>
+    <score-info>
+      <tempo>
+        <duration>
+          <numerator>1</numerator>
+          <denominator>4</denominator>
+        </duration>
+        <bpm>90</bpm>
+      </tempo>
+    </score-info>
+    <staves>
+      <staff id="id0"/>
+      <staff id="id1"/>
+    </staves>
+    <voices>
+      <voice id="id2">
+        <voice-info>
+          <voice-name>Unnamed</voice-name>
+          <first-measure-number>1</first-measure-number>
+        </voice-info>
+        <initial-voice-params>
+          <staff-ref staff="id0"/>
+          <clef name="treble"/>
+          <key-signature>
+            <modal-key-signature note-name="E" accidental="flat" mode="major"/>
+          </key-signature>
+          <time-signature>
+            <simple-time-signature>
+              <numerator>4</numerator>
+              <denominator>4</denominator>
+            </simple-time-signature>
+          </time-signature>
+        </initial-voice-params>
+        <voice-props>
+          <number-of-lines>5</number-of-lines>
+          <voice-control>1</voice-control>
+          <transpose>0</transpose>
+          <instrument>Oboe</instrument>
+          <device-port>NONE</device-port>
+          <volume>127</volume>
+          <midi_prognum>68</midi_prognum>
+          <midi_channel>0</midi_channel>
+          <hasfigures>0</hasfigures>
+          <hasfakechords>0</hasfakechords>
+          <verses>
+            <verse>You brought me a -- long, but Doc -- tor, why? I just don't think that I'm your guy. I've ne -- ver roamed this far from Ca -- me -- lot.
+I'm to -- tal -- ly out of my zone. I can't com -- bat what I don't know. You think I'm help -- ful, Doc -- tor, but I'm not.
+I've helped Lan -- ce -- lot kill a grif -- fin and helped Ar -- thur a time or two, but in your world I don't know what to do.
+
+Cause I'm just not a he -- ro. I don't know what's go -- ing on. I'm just not a he -- ro. I'm not fast or brave or strong.
+I don't know how to fly a space -- ship. I real -- ly miss my home. I'm just not a he -- ro. I'm no help here at all.
+
+Mer -- lin you can't give up yet. You're the great -- est wizard I've e -- ver met.
+You can't fool me, I know you're brave. What a -- bout that world you al -- ways save?
+
+It does -- n't mat -- ter if you're a -- fraid. Ev -- ery -- one feels fear. Bra -- ve -- ry is stand -- ing tall when dan -- ger's near!
+Cause we know that you're a he -- ro. We get that you're con -- fused. But we've met lots of he -- roes, and they sound just like you.
+
+You're brave and smart and kind -- a cute. Saved Ca -- me -- lot o -- ver -- night. We know that you're a he -- ro. Soon you'll find we're right.
+
+We don't like spi -- ders, snakes or rats. Scared of the dark and that's a fact. Some of us can't touch a bug, but we save the day no mat -- ter what.
+
+Cause we know that you're a he -- ro. You're cou -- rage -- ous, brave, and true. We all know you can save the day. We all be -- lieve in you.
+A no -- ble wiz -- ard from the past will play a part to -- day. Cause we know that you're a he -- ro.
+
+I know that I'm a he -- ro, and I can save the day!</verse>
+          </verses>
+        </voice-props>
+        <measures>
+          <measure>
+            <rest show="true" id="id3">
+              <duration base="quarter"/>
+            </rest>
+            <rest show="true" id="id4">
+              <duration base="quarter"/>
+            </rest>
+            <rest show="true" id="id5">
+              <duration base="quarter"/>
+            </rest>
+            <chord show="true" id="id6">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id7">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id8">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id9">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id10">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id11">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id12">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id13">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id14">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id15">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id16">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id17">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id18">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id19">
+                  <middle-c-offset>5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id20">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id21">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id22">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id23">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id24">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id25">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id26">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id27">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id28">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id29">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id30">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id31">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id32">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id33">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id34">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id35">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id36">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id37">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id38">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id39">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id40">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id41">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id42">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id43">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id44">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id45">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id46">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id47">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id48">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id49">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id50">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id51">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id52">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id53">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id54">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id55">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id56">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id57">
+                  <middle-c-offset>-1</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id58">
+              <duration base="half"/>
+              <notes>
+                <note id="id59">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id60">
+              <duration base="quarter"/>
+            </rest>
+            <rest show="true" id="id61">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id62">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id63">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <tuplet-start id="id64">
+              <multiplier>
+                <numerator>2</numerator>
+                <denominator>3</denominator>
+              </multiplier>
+            </tuplet-start>
+            <chord show="true" id="id65">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id66">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id67">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id68">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id69">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id70">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <tuplet-end tuplet="id64"/>
+            <tuplet-start id="id71">
+              <multiplier>
+                <numerator>2</numerator>
+                <denominator>3</denominator>
+              </multiplier>
+            </tuplet-start>
+            <chord show="true" id="id72">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id73">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id74">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id75">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id76">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id77">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <tuplet-end tuplet="id71"/>
+            <chord show="true" id="id78">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id79">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id80">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id81">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id82">
+                  <middle-c-offset>-1</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id83">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id84">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id85">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id86">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id87">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id88">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id89">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id90">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id91">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id92">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id93">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id94">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id95">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id96">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id97">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id98">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id99">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id100">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id101">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id102">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id103">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id104">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id105">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id106">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id107">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id108">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id109">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id110">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id111">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id112">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id113">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id114">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id115">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id116">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id117">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id118">
+              <duration base="eighth"/>
+            </rest>
+            <rest show="true" id="id119">
+              <duration base="quarter"/>
+            </rest>
+            <rest show="true" id="id120">
+              <duration base="quarter"/>
+            </rest>
+            <chord show="true" id="id121">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id122">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id123">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id124">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id125">
+              <duration base="sixteenth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id126">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id127">
+              <duration base="thirty-second"/>
+              <notes>
+                <note id="id128">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id129">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id130">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id131">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id132">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id133">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id134">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id135">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id136">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id137">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id138">
+                  <middle-c-offset>-1</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id139">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id140">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id141">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id142">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id143">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id144">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id145">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id146">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id147">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id148">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id149">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id150">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id151">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id152">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id153">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id154">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id155">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id156">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id157">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id158">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id159">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id160">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id161">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id162">
+              <duration base="eighth"/>
+              <tie to="id164"/>
+              <notes>
+                <note id="id163">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id164">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id165">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id166">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id167">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id168">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id169">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id170">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id171">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id172">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id173">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id174">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id175">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id176">
+              <duration base="half"/>
+              <notes>
+                <note id="id177">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id178">
+              <duration base="quarter"/>
+            </rest>
+            <rest show="true" id="id179">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id180">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id181">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id182">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id183">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id184">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id185">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id186">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id187">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id188">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id189">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id190">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id191">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id192">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id193">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id194">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id195">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id196">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id197">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id198">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id199">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id200">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id201">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id202">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id203">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id204">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id205">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id206">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id207">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id208">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id209">
+              <duration base="quarter"/>
+            </rest>
+          </measure>
+          <measure>
+            <chord show="true" id="id210">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id211">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id212">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id213">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id214">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id215">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id216">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id217">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id218">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id219">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id220">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id221">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id222">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id223">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id224">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id225">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id226">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id227">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id228">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id229">
+              <duration base="sixteenth"/>
+            </rest>
+            <chord show="true" id="id230">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id231">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id232">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id233">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id234">
+              <duration base="sixteenth"/>
+            </rest>
+            <chord show="true" id="id235">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id236">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id237">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id238">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id239">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id240">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id241">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id242">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id243">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id244">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id245">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id246">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id247">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id248">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id249">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id250">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id251">
+                  <middle-c-offset>5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id252">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id253">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id254">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id255">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id256">
+              <duration base="sixteenth"/>
+              <tie to="id258"/>
+              <notes>
+                <note id="id257">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id258">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id259">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id260">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id261">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id262">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id263">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id264">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id265">
+              <duration base="sixteenth"/>
+              <tie to="id267"/>
+              <notes>
+                <note id="id266">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id267">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id268">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id269">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id270">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id271">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id272">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id273">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id274">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id275">
+              <duration base="quarter"/>
+            </rest>
+          </measure>
+          <measure>
+            <chord show="true" id="id276">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id277">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id278">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id279">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id280">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id281">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id282">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id283">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id284">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id285">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id286">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id287">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id288">
+              <duration base="quarter"/>
+            </rest>
+          </measure>
+          <measure>
+            <rest show="true" id="id289">
+              <duration base="quarter"/>
+            </rest>
+            <rest show="true" id="id290">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id291">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id292">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id293">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id294">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id295">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id296">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id297">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id298">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id299">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id300">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id301">
+              <duration base="half"/>
+              <notes>
+                <note id="id302">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id303">
+              <duration base="half"/>
+            </rest>
+          </measure>
+          <measure>
+            <chord show="true" id="id304">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id305">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id306">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id307">
+                  <middle-c-offset>5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id308">
+              <duration base="eighth"/>
+              <tie to="id310"/>
+              <notes>
+                <note id="id309">
+                  <middle-c-offset>6</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id310">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id311">
+                  <middle-c-offset>6</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id312">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id313">
+                  <middle-c-offset>6</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id314">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id315">
+                  <middle-c-offset>6</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id316">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id317">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id318">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id319">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id320">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id321">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id322">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id323">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id324">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id325">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id326">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id327">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id328">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id329">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id330">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id331">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id332">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id333">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id334">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id335">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id336">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id337">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id338">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id339">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id340">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id341">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id342">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id343">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id344">
+              <duration base="eighth"/>
+              <tie to="id346"/>
+              <notes>
+                <note id="id345">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id346">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id347">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id348">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id349">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id350">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id351">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id352">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id353">
+                  <middle-c-offset>-1</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id354">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id355">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id356">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id357">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id358">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id359">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id360">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id361">
+                  <middle-c-offset>5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id362">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id363">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id364">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id365">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id366">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id367">
+                  <middle-c-offset>2</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id368">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id369">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id370">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id371">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id372">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id373">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <rest show="true" id="id374">
+              <duration base="whole"/>
+              <directives>
+                <directive>
+                  <tag>WholeMeasureRest</tag>
+                  <postfix>R1*4/4</postfix>
+                  <display>1</display>
+                  <graphic_name>
+ </graphic_name>
+                  <minpixels>100</minpixels>
+                  <tx>76</tx>
+                  <ty>15</ty>
+                  <gx>60</gx>
+                  <override>7</override>
+                </directive>
+              </directives>
+              <ticks>1536</ticks>
+            </rest>
+          </measure>
+          <measure>
+            <key-signature>
+              <modal-key-signature note-name="C" mode="major"/>
+            </key-signature>
+            <chord show="true" id="id375">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id376">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id377">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id378">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id379">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id380">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id381">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id382">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id383">
+              <duration base="sixteenth"/>
+              <tie to="id385"/>
+              <notes>
+                <note id="id384">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id385">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id386">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id387">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id388">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id389">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id390">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id391">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id392">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id393">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id394">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id395">
+              <duration base="eighth"/>
+            </rest>
+          </measure>
+          <measure>
+            <chord show="true" id="id396">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id397">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id398">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id399">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id400">
+              <duration base="eighth"/>
+              <tie to="id402"/>
+              <notes>
+                <note id="id401">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id402">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id403">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id404">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id405">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id406">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id407">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id408">
+              <duration base="quarter"/>
+            </rest>
+          </measure>
+          <measure>
+            <chord show="true" id="id409">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id410">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id411">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id412">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id413">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id414">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id415">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id416">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id417">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id418">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id419">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id420">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id421">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id422">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id423">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id424">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id425">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id426">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id427">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id428">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id429">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id430">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id431">
+              <duration base="quarter"/>
+            </rest>
+            <rest show="true" id="id432">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id433">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id434">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id435">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id436">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id437">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id438">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id439">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id440">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id441">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id442">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id443">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id444">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id445">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id446">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id447">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id448">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id449">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id450">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id451">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id452">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id453">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id454">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id455">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id456">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id457">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id458">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id459">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id460">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id461">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id462">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id463">
+              <duration base="sixteenth"/>
+              <slurs>
+                <slur to="id465"/>
+              </slurs>
+              <notes>
+                <note id="id464">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id465">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id466">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id467">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id468">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id469">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id470">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id471">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id472">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id473">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id474">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id475">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id476">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id477">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id478">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id479">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id480">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id481">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id482">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id483">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id484">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id485">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id486">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id487">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id488">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id489">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id490">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id491">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id492">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id493">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id494">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id495">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id496">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id497">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id498">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id499">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id500">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id501">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id502">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id503">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id504">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id505">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id506">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id507">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id508">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id509">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id510">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id511">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id512">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id513">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id514">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id515">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id516">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id517">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id518">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id519">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id520">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id521">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id522">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id523">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id524">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id525">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id526">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id527">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id528">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id529">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id530">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id531">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id532">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id533">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id534">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id535">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id536">
+              <duration base="eighth"/>
+              <tie to="id538"/>
+              <notes>
+                <note id="id537">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id538">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id539">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id540">
+              <duration base="eighth"/>
+            </rest>
+          </measure>
+          <measure>
+            <chord show="true" id="id541">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id542">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id543">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id544">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id545">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id546">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id547">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id548">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id549">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id550">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id551">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id552">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id553">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id554">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id555">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id556">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id557">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id558">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id559">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id560">
+              <duration base="sixteenth"/>
+              <tie to="id562"/>
+              <notes>
+                <note id="id561">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id562">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id563">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id564">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id565">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id566">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id567">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id568">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id569">
+                  <middle-c-offset>-1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id570">
+              <duration base="eighth"/>
+            </rest>
+          </measure>
+          <measure>
+            <chord show="true" id="id571">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id572">
+                  <middle-c-offset>-2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id573">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id574">
+                  <middle-c-offset>-2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id575">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id576">
+                  <middle-c-offset>-1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id577">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id578">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id579">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id580">
+                  <middle-c-offset>-2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id581">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id582">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id583">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id584">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id585">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id586">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id587">
+              <duration base="eighth"/>
+            </rest>
+          </measure>
+          <measure>
+            <chord show="true" id="id588">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id589">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id590">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id591">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id592">
+              <duration base="eighth"/>
+              <tie to="id594"/>
+              <notes>
+                <note id="id593">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id594">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id595">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id596">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id597">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id598">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id599">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id600">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id601">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id602">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id603">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id604">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id605">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id606">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id607">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id608">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id609">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id610">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id611">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id612">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id613">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id614">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id615">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id616">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id617">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id618">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id619">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id620">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id621">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id622">
+              <duration base="eighth"/>
+            </rest>
+          </measure>
+          <measure>
+            <rest show="true" id="id623">
+              <duration base="half"/>
+            </rest>
+            <rest show="true" id="id624">
+              <duration base="quarter"/>
+            </rest>
+            <rest show="true" id="id625">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id626">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id627">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id628">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id629">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id630">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id631">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id632">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id633">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id634">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id635">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id636">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id637">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id638">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id639">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id640">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id641">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id642">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id643">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id644">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id645">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id646">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id647">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id648">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id649">
+              <duration base="sixteenth"/>
+              <tie to="id651"/>
+              <notes>
+                <note id="id650">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id651">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id652">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id653">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id654">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id655">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id656">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id657">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id658">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id659">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id660">
+              <duration base="sixteenth"/>
+              <slurs>
+                <slur to="id662"/>
+              </slurs>
+              <notes>
+                <note id="id661">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id662">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id663">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id664">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id665">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id666">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id667">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id668">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id669">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id670">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id671">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id672">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id673">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id674">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id675">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id676">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id677">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id678">
+              <duration base="sixteenth"/>
+            </rest>
+            <chord show="true" id="id679">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id680">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id681">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id682">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id683">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id684">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id685">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id686">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id687">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id688">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id689">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id690">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id691">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id692">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id693">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id694">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id695">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id696">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id697">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id698">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id699">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id700">
+              <duration base="sixteenth"/>
+              <tie to="id702"/>
+              <notes>
+                <note id="id701">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id702">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id703">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id704">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id705">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id706">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id707">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id708">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id709">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id710">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id711">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id712">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id713">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id714">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id715">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id716">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id717">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id718">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id719">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id720">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id721">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id722">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id723">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id724">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id725">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id726">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id727">
+              <duration base="eighth">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id728">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id729">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id730">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id731">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id732">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id733">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id734">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id735">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id736">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id737">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id738">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id739">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id740">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id741">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id742">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id743">
+                  <middle-c-offset>4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id744">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id745">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id746">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id747">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id748">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id749">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id750">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id751">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id752">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id753">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <rest show="true" id="id754">
+              <duration base="eighth"/>
+            </rest>
+            <chord show="true" id="id755">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id756">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id757">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id758">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id759">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id760">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id761">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id762">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id763">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id764">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id765">
+              <duration base="half"/>
+              <notes>
+                <note id="id766">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+        </measures>
+      </voice>
+      <voice id="id767">
+        <voice-info>
+          <voice-name>Bass</voice-name>
+          <first-measure-number>1</first-measure-number>
+        </voice-info>
+        <initial-voice-params>
+          <staff-ref staff="id1"/>
+          <clef name="bass"/>
+          <key-signature>
+            <modal-key-signature note-name="E" accidental="flat" mode="major"/>
+          </key-signature>
+          <time-signature>
+            <simple-time-signature>
+              <numerator>4</numerator>
+              <denominator>4</denominator>
+            </simple-time-signature>
+          </time-signature>
+        </initial-voice-params>
+        <voice-props>
+          <number-of-lines>5</number-of-lines>
+          <voice-control>1</voice-control>
+          <transpose>0</transpose>
+          <instrument>Fretless Bass</instrument>
+          <device-port>NONE</device-port>
+          <volume>127</volume>
+          <midi_prognum>35</midi_prognum>
+          <midi_channel>1</midi_channel>
+          <hasfigures>0</hasfigures>
+          <hasfakechords>0</hasfakechords>
+          <staff-directives>
+            <directive>
+              <tag>InstrumentName</tag>
+              <postfix>\set Staff.instrumentName = \markup {  \with-url #'"scheme:(d-GoToPosition 1 2 1 1)(let ((choice (d-PopupMenu (list (cons (_ \"Change Name\") d-InstrumentName)   (cons (_ \"Change Indent\") d-ScoreIndent)))))
+				(if choice (choice)))    " "Bass" }</postfix>
+              <display>Bass</display>
+              <override>4</override>
+            </directive>
+          </staff-directives>
+        </voice-props>
+        <measures>
+          <measure>
+            <chord show="true" id="id768">
+              <duration base="half"/>
+              <notes>
+                <note id="id769">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id770">
+              <duration base="half"/>
+              <notes>
+                <note id="id771">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id772">
+              <duration base="half"/>
+              <notes>
+                <note id="id773">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id774">
+              <duration base="half"/>
+              <notes>
+                <note id="id775">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id776">
+              <duration base="half"/>
+              <notes>
+                <note id="id777">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id778">
+              <duration base="half"/>
+              <notes>
+                <note id="id779">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id780">
+              <duration base="half"/>
+              <notes>
+                <note id="id781">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id782">
+              <duration base="half"/>
+              <notes>
+                <note id="id783">
+                  <middle-c-offset>-12</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id784">
+              <duration base="half"/>
+              <notes>
+                <note id="id785">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id786">
+              <duration base="half"/>
+              <notes>
+                <note id="id787">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id788">
+              <duration base="half"/>
+              <notes>
+                <note id="id789">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id790">
+              <duration base="half"/>
+              <notes>
+                <note id="id791">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id792">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id793">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id794">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id795">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id796">
+              <duration base="half"/>
+              <notes>
+                <note id="id797">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id798">
+              <duration base="half"/>
+              <notes>
+                <note id="id799">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id800">
+              <duration base="half"/>
+              <notes>
+                <note id="id801">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id802">
+              <duration base="half"/>
+              <notes>
+                <note id="id803">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id804">
+              <duration base="half"/>
+              <notes>
+                <note id="id805">
+                  <middle-c-offset>-14</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id806">
+              <duration base="half"/>
+              <notes>
+                <note id="id807">
+                  <middle-c-offset>-5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id808">
+              <duration base="half"/>
+              <notes>
+                <note id="id809">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id810">
+              <duration base="half"/>
+              <notes>
+                <note id="id811">
+                  <middle-c-offset>-5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id812">
+              <duration base="half"/>
+              <notes>
+                <note id="id813">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id814">
+              <duration base="half"/>
+              <notes>
+                <note id="id815">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id816">
+              <duration base="half"/>
+              <notes>
+                <note id="id817">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id818">
+              <duration base="half"/>
+              <notes>
+                <note id="id819">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id820">
+              <duration base="half"/>
+              <notes>
+                <note id="id821">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id822">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id823">
+                  <middle-c-offset>-5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id824">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id825">
+                  <middle-c-offset>-6</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id826">
+              <duration base="half"/>
+              <notes>
+                <note id="id827">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id828">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id829">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id830">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id831">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id832">
+              <duration base="quarter">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id833">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id834">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id835">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id836">
+              <duration base="half"/>
+              <notes>
+                <note id="id837">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id838">
+              <duration base="half"/>
+              <notes>
+                <note id="id839">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id840">
+              <duration base="half"/>
+              <notes>
+                <note id="id841">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id842">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id843">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id844">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id845">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id846">
+              <duration base="half"/>
+              <notes>
+                <note id="id847">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id848">
+              <duration base="half"/>
+              <notes>
+                <note id="id849">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id850">
+              <duration base="half"/>
+              <notes>
+                <note id="id851">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id852">
+              <duration base="half"/>
+              <notes>
+                <note id="id853">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id854">
+              <duration base="half">
+                <dots>1</dots>
+              </duration>
+              <notes>
+                <note id="id855">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id856">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id857">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id858">
+              <duration base="half"/>
+              <notes>
+                <note id="id859">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id860">
+              <duration base="half"/>
+              <notes>
+                <note id="id861">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id862">
+              <duration base="half"/>
+              <notes>
+                <note id="id863">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id864">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id865">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id866">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id867">
+                  <middle-c-offset>-6</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id868">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id869">
+                  <middle-c-offset>-5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id870">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id871">
+                  <middle-c-offset>-5</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id872">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id873">
+                  <middle-c-offset>-6</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id874">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id875">
+                  <middle-c-offset>-6</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id876">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id877">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id878">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id879">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id880">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id881">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id882">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id883">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id884">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id885">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id886">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id887">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id888">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id889">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id890">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id891">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id892">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id893">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id894">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id895">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id896">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id897">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id898">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id899">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id900">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id901">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+                <note id="id902">
+                  <middle-c-offset>-3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id903">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id904">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+                <note id="id905">
+                  <middle-c-offset>-1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id906">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id907">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+                <note id="id908">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id909">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id910">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+                <note id="id911">
+                  <middle-c-offset>3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <key-signature>
+              <modal-key-signature note-name="C" mode="major"/>
+            </key-signature>
+            <chord show="true" id="id912">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id913">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+                <note id="id914">
+                  <middle-c-offset>2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id915">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id916">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+                <note id="id917">
+                  <middle-c-offset>-3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id918">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id919">
+                  <middle-c-offset>-8</middle-c-offset>
+                </note>
+                <note id="id920">
+                  <middle-c-offset>-3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id921">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id922">
+                  <middle-c-offset>-8</middle-c-offset>
+                </note>
+                <note id="id923">
+                  <middle-c-offset>1</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id924">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id925">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+                <note id="id926">
+                  <middle-c-offset>0</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id927">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id928">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id929">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id930">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id931">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id932">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id933">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id934">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id935">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id936">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id937">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id938">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id939">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id940">
+                  <middle-c-offset>-5</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id941">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id942">
+                  <middle-c-offset>-6</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id943">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id944">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id945">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id946">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="true"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id947">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id948">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="flat" show="false"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id949">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id950">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id951">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id952">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id953">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id954">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id955">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id956">
+                  <middle-c-offset>-8</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id957">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id958">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id959">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id960">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id961">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id962">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id963">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id964">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id965">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id966">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id967">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id968">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id969">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id970">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id971">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id972">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id973">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id974">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id975">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id976">
+                  <middle-c-offset>-12</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id977">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id978">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id979">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id980">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id981">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id982">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id983">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id984">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id985">
+              <duration base="sixteenth"/>
+              <notes>
+                <note id="id986">
+                  <middle-c-offset>-8</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id987">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id988">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id989">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id990">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id991">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id992">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id993">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id994">
+                  <middle-c-offset>-12</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id995">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id996">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id997">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id998">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id999">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1000">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1001">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1002">
+                  <middle-c-offset>-9</middle-c-offset>
+                  <accidental name="natural" show="true"/>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1003">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1004">
+                  <middle-c-offset>-2</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1005">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1006">
+                  <middle-c-offset>-3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1007">
+              <duration base="half"/>
+              <notes>
+                <note id="id1008">
+                  <middle-c-offset>-4</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1009">
+              <duration base="half"/>
+              <notes>
+                <note id="id1010">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1011">
+              <duration base="half"/>
+              <notes>
+                <note id="id1012">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1013">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1014">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1015">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1016">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1017">
+              <duration base="half"/>
+              <notes>
+                <note id="id1018">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1019">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1020">
+                  <middle-c-offset>-13</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1021">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1022">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1023">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1024">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1025">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1026">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1027">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1028">
+                  <middle-c-offset>-13</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1029">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1030">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1031">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1032">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1033">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1034">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1035">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1036">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1037">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1038">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1039">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1040">
+                  <middle-c-offset>-6</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1041">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1042">
+                  <middle-c-offset>-6</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1043">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1044">
+                  <middle-c-offset>-3</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1045">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1046">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1047">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1048">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1049">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1050">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1051">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1052">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1053">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1054">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1055">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1056">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1057">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1058">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1059">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1060">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1061">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1062">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1063">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1064">
+                  <middle-c-offset>-8</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1065">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1066">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1067">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1068">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1069">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1070">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1071">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1072">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1073">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1074">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1075">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1076">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1077">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1078">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1079">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1080">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1081">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1082">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1083">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1084">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1085">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1086">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1087">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1088">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1089">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1090">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1091">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1092">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1093">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1094">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1095">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1096">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1097">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1098">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1099">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1100">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1101">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1102">
+                  <middle-c-offset>-8</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1103">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1104">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1105">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1106">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1107">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1108">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1109">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1110">
+                  <middle-c-offset>-13</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1111">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1112">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1113">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1114">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1115">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1116">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1117">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1118">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1119">
+              <duration base="eighth"/>
+              <notes>
+                <note id="id1120">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1121">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1122">
+                  <middle-c-offset>-14</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1123">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1124">
+                  <middle-c-offset>-8</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1125">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1126">
+                  <middle-c-offset>-9</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1127">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1128">
+                  <middle-c-offset>-11</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1129">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1130">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1131">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1132">
+                  <middle-c-offset>-14</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1133">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1134">
+                  <middle-c-offset>-13</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1135">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1136">
+                  <middle-c-offset>-12</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1137">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1138">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+            <chord show="true" id="id1139">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1140">
+                  <middle-c-offset>-10</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+          <measure>
+            <chord show="true" id="id1141">
+              <duration base="quarter"/>
+              <notes>
+                <note id="id1142">
+                  <middle-c-offset>-7</middle-c-offset>
+                </note>
+              </notes>
+            </chord>
+          </measure>
+        </measures>
+      </voice>
+    </voices>
+  </movement>
+</score>
