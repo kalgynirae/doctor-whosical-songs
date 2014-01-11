@@ -40,6 +40,7 @@ merlin = \markup \smallCaps "Merlin"
 ppg = \markup \smallCaps "PPG"
 
 melody = {
+  \tempo 4=72
   \key c \minor
   r2 r4 g'^\merlin
   g'8 g'16 g' g'8 g' aes' g' g' f'
